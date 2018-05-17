@@ -1,0 +1,9 @@
+FileLookupMixin/index_java/bin
+GetFormatMixin/index_java/bin
+ISBNNormalizer/index_java/bin
+SolrRecordLookupMixin/index_java/bin
+VideoInfoMixin/index_java/bin
+/GetFormatMixin/index_java/bin
+/nbproject/private/
+/build/
+/dist/
